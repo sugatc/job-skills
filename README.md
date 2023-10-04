@@ -20,7 +20,7 @@ hdbscan==0.8.33
 numpy==1.21.6
 matplotlib==3.2.2
 
--	The file for the model trained on the NCS data is contained within "model/jobs_fasttext.zip" file. To run the code first unzip this file and upload the all files along with your data file containing job titles, descriptions, and a column containing comma separated list of skills in the data folder. A small sample data file "data/skills_jd.csv" is provided for reference. Simply follow the directory structure as given.
+-	The file for the model trained on the NCS data is contained within "model/jobs_fasttext.zip" file. To run the code first unzip this file and upload the all files along with your data file containing job titles, descriptions, and a column containing comma separated list of skills in the data folder. A small sample data file "data/skills_jd.csv" with 100 randomly chosen unique titles-descriptions-skills combinations is provided for reference. Simply follow the directory structure as given.
 
 -	The code can be executed on Google Colab by first uploading the data on Google drive. In both the Colab notebooks replace the filename "skills_jd.csv" with the name of your input data file. Then mount the drive on Colab and run the first code block to install the dependencies. Thereafter, comment this code snippet and execute the "Restart and run all" option from the runtime menu. For running specific components follow the comments inside the code files.
 
