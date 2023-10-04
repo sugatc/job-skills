@@ -1,5 +1,5 @@
 # Using Domain-Specific Word Embeddings to examine the Demand for Skills
-Authors: Sugat Chaturvedi, Kanika Mahajan, Zahra Siddique
+**Authors**: Sugat Chaturvedi, Kanika Mahajan, Zahra Siddique
 (Last updated: October 4, 2023)
 
 This repository provides code to train domain specific embeddings using fastText on online job ads data to obtain relative gender association of skills and to visualize and categorize them into skill groups using the HDBSCAN clustering algorithm. Secondly, it provides the code to obtain sentence embeddings and to cluster job ads into occupation groups using job titles and descriptions. The repository also provides the model trained on over 250,000 unique job descriptions posted on the National Career Services (NCS) portal (https://www.ncs.gov.in/) in India. For complete details refer to Chaturvedi, S., Mahajan K., & Siddique, Z. (2023). "Using Domain-Specific Word Embeddings to examine the Demand for Skills". The files are divided into: code, data, and model folders.
