@@ -9,6 +9,7 @@ Please direct any questions to Sugat Chaturvedi at sugat.chaturvedi@gmail.com.
 The Jupyter notebooks (containing the Python code) are run on Google Colab with Intel(R) Xeon(R) CPU @ 2.20GHz CPU on Ubuntu 22.04.2 LTS operating system with 12.68 GB RAM. Software version: Python 3.10.12.
 
 **Dependencies**:
+
 pandas==1.3.5 <br/>
 fasttext==0.9.2 <br/>
 gensim==4.2.0 <br/>
